@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/go-pg/zerochecker"
+	"github.com/keyro90/zerochecker"
 )
 
 func TestChecker(t *testing.T) {
